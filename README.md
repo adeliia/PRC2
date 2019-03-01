@@ -1,9 +1,13 @@
-# 19. 2. 2019
+# PRC2-2019
+Repository for PRC2 classes
 
-Implementujte algoritmus semienkového vyplňovania černobieleho obrázku. Na vstupe
-bude PBM súbor a súradnice semienka, na výstupe bude zmenený/vyfarbený PBM obrázok.
+moj email: olajczuz@fjfi.cvut.cz
 
-Pre prácu s formátom PBM nepoužívajte knižnicu libpbm, napíšte vlastnú triedu pre 
-načítanie a zápis tohto formátu (cvičenie na fstream). V pamäti obrázok uchovávajte ako dvojrozmernú maticu.
+povolene 4 absencie
+
+predmet je uzavrety klasifikovanym zapoctom - na znamku ma vplyv aktivita na cviceniach (du, prezence),
+zapoctova uloha a preskusanie
+
+zapocet z PRC2 sa da zapisat az po zapisani zapoctu z PRC1
 
 
